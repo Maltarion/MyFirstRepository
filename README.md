@@ -1,3 +1,3 @@
 # Мой первый репозиторий
 
-вы
+https://github.com/Maltarion/MyFirstRepository.git
